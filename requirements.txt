@@ -1,0 +1,19 @@
+pandas
+python-dotenv
+crewai
+python-dotenv
+langchain_community
+langchain-groq
+# gspread
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2 
+google-api-python-client
+
+fastapi
+uvicorn
+loguru
+pydantic
+
+requests
+crewai-tools
